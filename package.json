@@ -1,0 +1,19 @@
+{
+  "name": "genders",
+  "version": "1.0.1",
+  "description": "A JSON library with genders and translations",
+  "main": "genders.json",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/addaleax/genders.git"
+  },
+  "author": "Anna Henningsen <sqrt@entless.org>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/addaleax/genders/issues"
+  },
+  "homepage": "https://github.com/addaleax/genders"
+}

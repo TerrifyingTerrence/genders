@@ -1,0 +1,35 @@
+{
+  "genders": [
+    "Agender",
+    "Androgyne",
+    "Androgynous",
+    "Bigender",
+    "Demigirl",
+    "Demiguy",
+    "Feminine",
+    "Femme",
+    "Genderqueer",
+    "Genderfluid",
+    "Intersex",
+    "Man",
+    "Masculine",
+    "Neutrois",
+    "Nonbinary",
+    "Other",
+    "Pangender",
+    "Third Gender",
+    "Woman"
+  ],
+  "translations": {
+    "de": {
+      "Androgyne": "Androgyn",
+      "Androgynous": "Androgyn",
+      "Masculine": "Männlich",
+      "Feminine": "Weiblich",
+      "Man": "Mann",
+      "Nonbinary": "Nichtbinär",
+      "Other": "Anderes",
+      "Woman": "Frau"
+    }
+  }
+}
