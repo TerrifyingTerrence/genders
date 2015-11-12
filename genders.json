@@ -1,7 +1,6 @@
 {
   "genders": [
     "Agender",
-    "Androgyne",
     "Androgynous",
     "Bigender",
     "Demigirl",
@@ -22,7 +21,6 @@
   ],
   "translations": {
     "de": {
-      "Androgyne": "Androgyn",
       "Androgynous": "Androgyn",
       "Masculine": "Männlich",
       "Feminine": "Weiblich",
